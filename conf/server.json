@@ -1,0 +1,12 @@
+{
+  "LogLevel":"",
+  "LogPath": "log/",
+  "WSAddr" : "0.0.0.0:1112",
+  "CertFile" : "",
+  "KeyFile"  : "",
+  "TCPAddr"  : "0.0.0.0:1111",
+  "MaxConnNum" : 1000,
+  "ConsolePort" : 1118,
+  "ProfilePath" : "log"
+
+}
